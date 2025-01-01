@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ .Title }}</title>
     <link rel="stylesheet" href="/css/main.css">
+    {{ if hugo.IsProduction }}
+        {{ partial "google-analytics.html" . }}
+    {{ end }}
 </head>
 <body>
     <main>
