@@ -1,4 +1,6 @@
 baseURL = 'https://protyasharoy.onrender.com/'
 languageCode = 'en-us'
 title = 'Protyasha Roy'
-googleAnalytics = os.Getenv("HUGO_GOOGLEANALYTICS")
+
+[params]
+  googleAnalytics = "$HUGO_GOOGLE_ANALYTICS"
