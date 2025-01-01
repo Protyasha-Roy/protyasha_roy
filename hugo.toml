@@ -4,3 +4,11 @@ title = 'Protyasha Roy'
 
 [params]
   googleAnalytics = "$HUGO_GOOGLE_ANALYTICS"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      attribute.block = true
+      attribute.title = true
+    [markup.goldmark.renderer]
+      unsafe = true
