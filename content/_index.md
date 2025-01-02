@@ -9,14 +9,14 @@ lastmod: "2025-01-01"
     <em>favorite side chick</em>
 </div>
 
-You are visiting portfolio site of the
-- [cynic](https://en.wikipedia.org/wiki/Cynicism_(philosophy))
--  [pirate](https://onepiece.fandom.com/wiki/Pirate)
-- [blogger](https://non-academic-academia.onrender.com/)
-- [entrancee](/entrancee)
-- [noob-developer](https://github.com/Protyasha-Roy)
-- [pseudo-musician](https://soundcloud.com/zynovex/dristygore/s-Bi58rqnPtVQ?si=0ef4efb3ed7e4385a0d942fae62da03d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-- [ex cricketer](https://en.wikipedia.org/wiki/Cricket)
+portfolio site of
+ a [cynic](https://en.wikipedia.org/wiki/Cynicism_(philosophy)),
+ a [pirate](https://onepiece.fandom.com/wiki/Pirate),
+ a [blogger](https://non-academic-academia.onrender.com/),
+ an [entrancee](/entrancee),
+ an [ameteur-developer](https://github.com/Protyasha-Roy),
+ a [pseudo-musician](https://soundcloud.com/zynovex/dristygore/s-Bi58rqnPtVQ?si=0ef4efb3ed7e4385a0d942fae62da03d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing),
+ an [ex cricketer](https://en.wikipedia.org/wiki/Cricket)
 
 
 by the name of [Protyasha Roy](https://non-academic-academia.onrender.com/me).
