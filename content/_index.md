@@ -9,7 +9,7 @@ lastmod: "2025-01-01"
     <em>favorite side chick</em>
 </div>
 
-portfolio site of
+site of
  a [cynic](https://en.wikipedia.org/wiki/Cynicism_(philosophy)),
  a [pirate](https://onepiece.fandom.com/wiki/Pirate),
  a [blogger](https://non-academic-academia.onrender.com/),
